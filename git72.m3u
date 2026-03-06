@@ -1,0 +1,287 @@
+﻿#EXTM3U url-tvg="http://epg.srv4you.net/vip-dw.org.xml.gz"
+#EXTINF:-1 group-title="Болгарія" tvg-id="Vivacom_24 Kitchen" tvg-logo="https://raw.githubusercontent.com/ggit72/bgtvlogos/main/24kitchen.png", 24 Kitchen
+http://lb.wisp.cat/lb0/BG_24_Kitchen/video.m3u8?token=GHchsrYt3k
+#EXTINF:-1 group-title="Болгарія" tvg-id="Vivacom_7/8 TV" tvg-logo="https://raw.githubusercontent.com/ggit72/bgtvlogos/main/78.png", 7/8 TV
+http://lb.wisp.cat/lb0/BG_78_TV/video.m3u8?token=GHchsrYt3k
+#EXTINF:-1 group-title="Болгарія" tvg-id="Action.box_BG" tvg-logo="https://raw.githubusercontent.com/ggit72/bgtvlogos/main/arenaACTION_Logo.png", arena ACTION
+http://lb.wisp.cat/lb0/BG_Actionbox/video.m3u8?token=GHchsrYt3k
+#EXTINF:-1 group-title="Болгарія" tvg-id="Agro TV" tvg-logo="https://raw.githubusercontent.com/ggit72/bgtvlogos/main/agrotv.png", Agro TV HD
+http://lb.wisp.cat/lb0/BG_AGRO_TV_HD/video.m3u8?token=GHchsrYt3k
+#EXTINF:-1 group-title="Болгарія" tvg-logo="https://raw.githubusercontent.com/ggit72/bgtvlogos/main/music.png", Ambience TV HD
+http://lb.wisp.cat/lb0/BG_AmbienceTV_HD/video.m3u8?token=GHchsrYt3k
+#EXTINF:-1 group-title="Болгарія" tvg-id="Vivacom_AMC" tvg-logo="https://raw.githubusercontent.com/ggit72/bgtvlogos/main/amc.png", AMC
+http://lb.wisp.cat/lb0/BG_AMC/video.m3u8?token=GHchsrYt3k
+#EXTINF:-1 group-title="Болгарія" tvg-id="Vivacom_Animal Planet" tvg-logo="https://raw.githubusercontent.com/ggit72/bgtvlogos/main/animalplanet.png", Animal Planet
+http://lb.wisp.cat/lb0/BG_Animal_Planet/index.m3u8?token=GHchsrYt3k
+#EXTINF:-1 group-title="Спортивні" tvg-id="Vivacom_AMS" tvg-logo="http://play.wisp.cat/logos/1906.png", Auto Motor Sport HD
+http://lb.wisp.cat/lb0/Auto_Motor_Sport_HD/video.m3u8?token=GHchsrYt3k
+#EXTINF:-1 group-title="Телеканали 4K" tvg-id="Vivacom_AMS" tvg-logo="http://play.wisp.cat/logos/266.png", Auto Motor Sport UHD
+http://lb.wisp.cat/lb0/Automoto4k/video.m3u8?token=GHchsrYt3k
+#EXTINF:-1 group-title="Болгарія" tvg-id="AXN" tvg-logo="https://raw.githubusercontent.com/ggit72/bgtvlogos/main/axn bg.png", AXN
+http://lb.wisp.cat/lb0/BG_AXN/index.m3u8?token=GHchsrYt3k
+#EXTINF:-1 group-title="Болгарія" tvg-id="AXN Black" tvg-logo="https://raw.githubusercontent.com/ggit72/bgtvlogos/main/axn black.png", AXN Black BG
+http://lb.wisp.cat/lb0/BG_AXN_Black/index.m3u8?token=GHchsrYt3k
+#EXTINF:-1 group-title="Болгарія" tvg-id="AXN White" tvg-logo="https://raw.githubusercontent.com/ggit72/bgtvlogos/main/axn white.png", AXN White BG
+http://lb.wisp.cat/lb0/BG_AXN_White/index.m3u8?token=GHchsrYt3k
+#EXTINF:-1 group-title="Дорослі" tvg-id="babes-tv" tvg-logo="http://play.wisp.cat/logos/662.png", Babes TV HD
+http://lb.wisp.cat/lb0/BABES_TV_HD/video.m3u8?token=GHchsrYt3k
+#EXTINF:-1 group-title="Музичні" tvg-id="Vivacom_Balkanika" tvg-logo="http://play.wisp.cat/logos/405.png", Balkanika HD
+http://lb.wisp.cat/lb0/Balkanika_HD/video.m3u8?token=GHchsrYt3k
+#EXTINF:-1 group-title="Дорослі" tvg-id="barely-legal" tvg-logo="http://play.wisp.cat/logos/373.png", Barely Legal TV
+http://lb.wisp.cat/lb0/Barely_legal/video.m3u8?token=GHchsrYt3k
+#EXTINF:-1 group-title="Дорослі" tvg-id="bcu-charm" tvg-logo="http://play.wisp.cat/logos/2450.png" catchup-days="1", BCU Charm HD
+http://lb.wisp.cat/lb0/BCU_Charm_HD/video.m3u8?token=GHchsrYt3k
+#EXTINF:-1 group-title="Болгарія" tvg-id="Vivacom_BG Music Channel" tvg-logo="https://raw.githubusercontent.com/ggit72/bgtvlogos/main/bgmusicchannel.png", BG Music HD
+http://lb.wisp.cat/lb0/BG_BG_Music_HD/video.m3u8?token=GHchsrYt3k
+#EXTINF:-1 group-title="Болгарія" tvg-id="Vivacom_Bloomberg BG" tvg-logo="https://raw.githubusercontent.com/ggit72/bgtvlogos/main/bloomberg.png", Bloomberg BG
+http://lb.wisp.cat/lb0/BG_Bloomberg_BG/video.m3u8?token=GHchsrYt3k
+#EXTINF:-1 group-title="Дорослі" tvg-id="blue-hustler" tvg-logo="http://play.wisp.cat/logos/1920.png", Blue Hustler
+http://lb.wisp.cat/lb0/Blue_Hustler/video.m3u8?token=GHchsrYt3k
+#EXTINF:-1 group-title="Дорослі" tvg-id="blue-hustler-ua" tvg-logo="http://play.wisp.cat/logos/1749.png", Blue Hustler Europe
+http://lb.wisp.cat/lb0/Blue_Hustler_Europe/video.m3u8?token=GHchsrYt3k
+#EXTINF:-1 group-title="Музичні" tvg-id="Vivacom_Box TV" tvg-logo="https://raw.githubusercontent.com/ggit72/bgtvlogos/main/boxtv.png", BOX HD
+http://lb.wisp.cat/lb0/BG_BOX_HD/video.m3u8?token=GHchsrYt3k
+#EXTINF:-1 group-title="Музичні" tvg-id="box-metall" tvg-logo="http://play.wisp.cat/logos/175.png", BOX Metall HD
+http://lb.wisp.cat/lb0/BOX_Metall_HD/video.m3u8?token=GHchsrYt3k
+#EXTINF:-1 group-title="Дорослі" tvg-id="brazzers-tv-europe" tvg-logo="http://play.wisp.cat/logos/1931.png", Brazzers HD
+http://lb.wisp.cat/lb0/PL_Brazzers_HD/video.m3u8?token=GHchsrYt3k
+#EXTINF:-1 group-title="Дорослі" tvg-id="brazzers-tv-europe-ru" tvg-logo="http://play.wisp.cat/logos/970.png", BrazzersTV Europe
+http://lb.wisp.cat/lb0/PL_Brazzers_HD/video.m3u8?token=GHchsrYt3k
+#EXTINF:-1 group-title="Болгарія" tvg-id="Vivacom_bTV Action HD" tvg-logo="https://raw.githubusercontent.com/ggit72/bgtvlogos/main/btvaction.png", bTV Action HD
+http://lb.wisp.cat/lb0/BG_bTV_Action_HD/index.m3u8?token=GHchsrYt3k
+#EXTINF:-1 group-title="Болгарія" tvg-id="Vivacom_bTV Cinema" tvg-logo="https://raw.githubusercontent.com/ggit72/bgtvlogos/main/btvcinema.png", bTV Cinema HD
+http://lb.wisp.cat/lb0/BG_bTV_Cinema_HD/video.m3u8?token=GHchsrYt3k
+#EXTINF:-1 group-title="Болгарія" tvg-id="Vivacom_bTV Comedy" tvg-logo="https://raw.githubusercontent.com/ggit72/bgtvlogos/main/btvcomedy.png", bTV Comedy HD
+http://lb.wisp.cat/lb0/BG_bTV_Comedy_HD/video.m3u8?token=GHchsrYt3k
+#EXTINF:-1 group-title="Болгарія" tvg-id="Vivacom_bTV HD" tvg-logo="http://play.wisp.cat/logos/1367.png", bTV HD
+http://lb.wisp.cat/lb0/BG_bTV_HD/index.m3u8?token=GHchsrYt3k
+#EXTINF:-1 group-title="Болгарія" tvg-id="Vivacom_bTV Story" tvg-logo="https://raw.githubusercontent.com/ggit72/bgtvlogos/main/bTV Story2.png", bTV Story HD
+http://lb.wisp.cat/lb0/BG_bTV_Story_HD/video.m3u8?token=GHchsrYt3k
+#EXTINF:-1 group-title="Болгарія" tvg-id="Vivacom_България 24" tvg-logo="http://play.wisp.cat/logos/1301.png", Bulgaria 24
+http://lb.wisp.cat/lb0/BG_Bulgariya_24/index.m3u8?token=GHchsrYt3k
+#EXTINF:-1 group-title="Болгарія" tvg-id="Vivacom_Bulgaria On Air" tvg-logo="http://play.wisp.cat/logos/1298.png", Bulgaria on Air
+http://lb.wisp.cat/lb0/BG_BulgariaOnAir/index.m3u8?token=GHchsrYt3k
+#EXTINF:-1 group-title="Болгарія" tvg-id="Vivacom_Cartoon network" tvg-logo="https://raw.githubusercontent.com/ggit72/bgtvlogos/main/cartoonnetwork.png", Cartoon Network BG
+http://lb.wisp.cat/lb0/BG_Cartoon_network/video.m3u8?token=GHchsrYt3k
+#EXTINF:-1 group-title="Болгарія" tvg-id="Vivacom_Cartoonito", Cartoonito BG
+http://lb.wisp.cat/lb0/BG_Cartoonito/video.m3u8?token=GHchsrYt3k
+#EXTINF:-1 group-title="Болгарія" tvg-id="Vivacom_CineStar TV" tvg-logo="https://raw.githubusercontent.com/ggit72/bgtvlogos/main/Cinestar TV.png", Cine Star TV
+http://lb.wisp.cat/lb0/BG_CineStarTV/video.m3u8?token=GHchsrYt3k
+#EXTINF:-1 group-title="Болгарія" tvg-id="cinestaraction.hr" tvg-name="Cinestar A&amp;T" tvg-logo="https://raw.githubusercontent.com/ggit72/bgtvlogos/main/CineStar TV ACTION.png" tvg-url="https://raw.githubusercontent.com/harrygg/EPG/refs/heads/master/epg.xml.gz", Cine Star TV Action
+http://lb.wisp.cat/lb0/BG_CineStarTV_Action/index.m3u8?token=GHchsrYt3k
+#EXTINF:-1 group-title="Болгарія" tvg-id="Cine.box_BG" tvg-logo="https://raw.githubusercontent.com/ggit72/bgtvlogos/main/arenaLIFE_Logo.png", arena LIFE
+http://lb.wisp.cat/lb0/BG_Cinebox/video.m3u8?token=GHchsrYt3k
+#EXTINF:-1 group-title="Дорослі" tvg-logo="https://raw.githubusercontent.com/ggit72/bgtvlogos/main/st.png", CineMan ExExEx
+http://lb.wisp.cat/lb0/CineManExExEx/video.m3u8?token=GHchsrYt3k
+#EXTINF:-1 group-title="Дорослі" tvg-logo="https://raw.githubusercontent.com/ggit72/bgtvlogos/main/st.png", CineMan ExExEx TWO
+http://lb.wisp.cat/lb0/CineManExExEx_TWO/video.m3u8?token=GHchsrYt3k
+#EXTINF:-1 group-title="Болгарія" tvg-id="Vivacom_Cinemania" tvg-logo="https://raw.githubusercontent.com/ggit72/bgtvlogos/main/cinemania.png", Cinemania HD
+http://lb.wisp.cat/lb0/BG_Cinemania_HD/video.m3u8?token=GHchsrYt3k
+#EXTINF:-1 group-title="Болгарія" tvg-id="Vivacom_Cinemax 2" tvg-logo="https://raw.githubusercontent.com/ggit72/bgtvlogos/main/Cinemax BG.png", Cinemax 2
+http://lb.wisp.cat/lb0/BG_Cinemax_2/video.m3u8?token=GHchsrYt3k
+#EXTINF:-1 group-title="Болгарія" tvg-id="Vivacom_Cinemax" tvg-logo="https://raw.githubusercontent.com/ggit72/bgtvlogos/main/Cinemax 2 BG.png", Cinemax
+http://lb.wisp.cat/lb0/BG_Cinemax/video.m3u8?token=GHchsrYt3k
+#EXTINF:-1 group-title="Болгарія" tvg-id="Vivacom_CITY TV" tvg-logo="https://raw.githubusercontent.com/ggit72/bgtvlogos/main/city.png", City TV
+http://lb.wisp.cat/lb0/BG_CITY_TV/video.m3u8?token=GHchsrYt3k
+#EXTINF:-1 group-title="Дорослі" tvg-logo="http://play.wisp.cat/logos/2777.png", Clarity4K Angel XXX
+http://lb.wisp.cat/lb0/Clarity4K_Angel_XXX/video.m3u8?token=GHchsrYt3k
+#EXTINF:-1 group-title="Болгарія" tvg-id="Vivacom_Code Health" tvg-logo="https://raw.githubusercontent.com/ggit72/bgtvlogos/main/codehealth.png", Code Health
+http://lb.wisp.cat/lb0/BG_Code_Health/video.m3u8?token=GHchsrYt3k
+#EXTINF:-1 group-title="Болгарія" tvg-id="Vivacom_Code Health" tvg-logo="https://raw.githubusercontent.com/ggit72/bgtvlogos/main/codehealth.png", Code Health HD
+http://lb.wisp.cat/lb0/BG_Code_Health_HD/video.m3u8?token=GHchsrYt3k
+#EXTINF:-1 group-title="Болгарія" tvg-id="Code Fashion" tvg-logo="https://raw.githubusercontent.com/ggit72/bgtvlogos/main/codefashion.png", CodeFashion HD
+http://lb.wisp.cat/lb0/BG_CodeFashion_HD/video.m3u8?token=GHchsrYt3k
+#EXTINF:-1 group-title="Болгарія" tvg-id="Comedy.box_BG" tvg-logo="https://raw.githubusercontent.com/ggit72/bgtvlogos/main/arenaCOMEDY_Logo.png", arena COMEDY
+http://lb.wisp.cat/lb0/BG_Comedybox/video.m3u8?token=GHchsrYt3k
+#EXTINF:-1 group-title="Болгарія" tvg-id="Vivacom_CI Network" tvg-logo="https://raw.githubusercontent.com/ggit72/bgtvlogos/main/ci.png", Crime Investigation BG
+http://lb.wisp.cat/lb0/BG_CI_Network/index.m3u8?token=GHchsrYt3k
+#EXTINF:-1 group-title="Болгарія" tvg-id="Vivacom_Da Vinci" tvg-logo="https://raw.githubusercontent.com/ggit72/bgtvlogos/main/davincilearning.png", DaVinci BG
+http://lb.wisp.cat/lb0/BG_Da_Vinci/video.m3u8?token=GHchsrYt3k
+#EXTINF:-1 group-title="Болгарія" tvg-id="Vivacom_Диема Фемили HD" tvg-logo="https://raw.githubusercontent.com/ggit72/bgtvlogos/main/diemafamily.png", Diema Family HD
+http://lb.wisp.cat/lb0/BG_Diema_Family_HD/video.m3u8?token=GHchsrYt3k
+#EXTINF:-1 group-title="Спортивні" tvg-id="Vivacom_Diema Sport 2 HD" tvg-logo="http://play.wisp.cat/logos/1478.png" catchup-days="5", Diema Sport 2 HD
+http://lb.wisp.cat/lb0/DIEMA_SPORT_2_HD/video.m3u8?token=GHchsrYt3k
+#EXTINF:-1 group-title="Спортивні" tvg-id="Vivacom_Diema Sport 2 HD" tvg-logo="http://play.wisp.cat/logos/1478.png", Diema Sport 2 UHD
+http://lb.wisp.cat/lb0/DIEMA_SPORT_4_UHD/video.m3u8?token=GHchsrYt3k
+#EXTINF:-1 group-title="Спортивні" tvg-id="Vivacom_Diema Sport 3 HD" tvg-logo="http://play.wisp.cat/logos/1306.png" catchup-days="5", Diema Sport 3 HD
+http://lb.wisp.cat/lb0/DIEMA_SPORT_3_HD/video.m3u8?token=GHchsrYt3k
+#EXTINF:-1 group-title="Спортивні" tvg-id="Vivacom_Diema Sport 3 HD" tvg-logo="http://play.wisp.cat/logos/1306.png", Diema Sport 3 UHD
+http://lb.wisp.cat/lb0/DIEMA_SPORT_3_UHD/video.m3u8?token=GHchsrYt3k
+#EXTINF:-1 group-title="Спортивні" tvg-id="Vivacom_Diema Sport HD" tvg-logo="http://play.wisp.cat/logos/1487.png" catchup-days="5", Diema Sport HD
+http://lb.wisp.cat/lb0/DIEMA_SPORT_HD/video.m3u8?token=GHchsrYt3k
+#EXTINF:-1 group-title="Болгарія" tvg-id="Vivacom_Discovery Channel" tvg-logo="https://raw.githubusercontent.com/ggit72/bgtvlogos/main/discovery channel.png", Discovery Channel BG
+http://lb.wisp.cat/lb0/BG_Discovery_Channel/video.m3u8?token=GHchsrYt3k
+#EXTINF:-1 group-title="Болгарія" tvg-id="Vivacom_Disney" tvg-logo="http://play.wisp.cat/logos/1320.png", Disney Channel BG
+http://lb.wisp.cat/lb0/BG_Disney/index.m3u8?token=GHchsrYt3k
+#EXTINF:-1 group-title="Болгарія" tvg-id="Vivacom_Disney Junior" tvg-logo="http://play.wisp.cat/logos/1319.png", Disney Junior BG
+http://lb.wisp.cat/lb0/BG_Disney_Junior/index.m3u8?token=GHchsrYt3k
+#EXTINF:-1 group-title="Болгарія" tvg-id="BG_126-dm-sat" tvg-logo="https://raw.githubusercontent.com/ggit72/bgtvlogos/main/dmsat.png", DM Sat
+http://lb.wisp.cat/lb0/BG_DM_Sat/video.m3u8?token=GHchsrYt3k
+#EXTINF:-1 group-title="Дорослі" tvg-id="dorcel" tvg-logo="http://play.wisp.cat/logos/982.png", Dorcel
+http://lb.wisp.cat/lb0/BG_Dorcel/video.m3u8?token=GHchsrYt3k
+#EXTINF:-1 group-title="Болгарія" tvg-id="Vivacom_DSTV" tvg-logo="https://raw.githubusercontent.com/ggit72/bgtvlogos/main/dstv.png", DSTV
+http://lb.wisp.cat/lb0/BG_DSTV/index.m3u8?token=GHchsrYt3k
+#EXTINF:-1 group-title="Болгарія" tvg-id="Vivacom_E-Kids" tvg-logo="http://play.wisp.cat/logos/1318.png", E kids
+http://lb.wisp.cat/lb0/BG_E_Kids/index.m3u8?token=GHchsrYt3k
+#EXTINF:-1 group-title="Болгарія" tvg-id="Vivacom_Epic Drama" tvg-logo="https://raw.githubusercontent.com/ggit72/bgtvlogos/main/epicdrama.png", Epic Drama BG
+http://lb.wisp.cat/lb0/BG_Epic_Drama/video.m3u8?token=GHchsrYt3k
+#EXTINF:-1 group-title="Дорослі" tvg-id="erox" tvg-logo="http://play.wisp.cat/logos/793.png", Erox
+http://lb.wisp.cat/lb0/Erox/video.m3u8?token=GHchsrYt3k
+#EXTINF:-1 group-title="Болгарія" tvg-id="Vivacom_Euronews Bulgaria" tvg-logo="http://play.wisp.cat/logos/1883.png", Euronews Bulgaria
+http://lb.wisp.cat/lb0/BG_Euronews_Bulgaria/index.m3u8?token=GHchsrYt3k
+#EXTINF:-1 group-title="Спортивні" tvg-id="Eurosport" tvg-logo="https://raw.githubusercontent.com/ggit72/bgtvlogos/main/eurosport1.png", Eurosport 1 BG
+http://lb.wisp.cat/lb0/BG_Eurosport1/index.m3u8?token=GHchsrYt3k
+#EXTINF:-1 group-title="Спортивні" tvg-id="Eurosport 2" tvg-logo="https://raw.githubusercontent.com/ggit72/bgtvlogos/main/eurosport2.png", Eurosport 2 BG
+http://lb.wisp.cat/lb0/BG_Eurosport2/index.m3u8?token=GHchsrYt3k
+#EXTINF:-1 group-title="Болгарія" tvg-id="Vivacom_NKTV Evrokom" tvg-logo="http://play.wisp.cat/logos/1313.png", Evrokom
+http://lb.wisp.cat/lb0/BG_NKTV_Evrokom/index.m3u8?token=GHchsrYt3k
+#EXTINF:-1 group-title="Дорослі" tvg-id="extasy4k" tvg-logo="http://play.wisp.cat/logos/1657.png", Extasy 4K
+http://lb.wisp.cat/lb0/EXTASY4K/video.m3u8?token=GHchsrYt3k
+#EXTINF:-1 group-title="Болгарія" tvg-id="Vivacom_Фен Фолк" tvg-logo="https://raw.githubusercontent.com/ggit72/bgtvlogos/main/fenfolk.png", Fen Folk HD
+http://lb.wisp.cat/lb0/BG_Fen_Folk_HD/video.m3u8?token=GHchsrYt3k
+#EXTINF:-1 group-title="Болгарія" tvg-id="Vivacom_Fen TV" tvg-logo="https://raw.githubusercontent.com/ggit72/bgtvlogos/main/fentv.png", FEN TV HD
+http://lb.wisp.cat/lb0/BG_FEN_HD/video.m3u8?token=GHchsrYt3k
+#EXTINF:-1 group-title="Спортивні" tvg-id="Vivacom_FightKlub HD" tvg-logo="https://raw.githubusercontent.com/ggit72/bgtvlogos/main/fightbox.png", FightKlub BG HD
+http://lb.wisp.cat/lb0/BG_FightKlub_HD/index.m3u8?token=GHchsrYt3k
+#EXTINF:-1 group-title="Болгарія" tvg-id="Vivacom_Filmbox Extra" tvg-logo="http://play.wisp.cat/logos/1328.png", FilmBox Extra BG
+http://lb.wisp.cat/lb0/BG_Filmbox_Extra/index.m3u8?token=GHchsrYt3k
+#EXTINF:-1 group-title="Болгарія" tvg-logo="https://raw.githubusercontent.com/ggit72/bgtvlogos/main/fixfoxy.png", Fix Foxi BG
+http://lb.wisp.cat/lb0/BG_Fix_Foxi/video.m3u8?token=GHchsrYt3k
+#EXTINF:-1 group-title="Болгарія" tvg-id="Vivacom_Фолклор ТВ" tvg-logo="http://play.wisp.cat/logos/1322.png", Folklor TV
+http://lb.wisp.cat/lb0/BG_Folklor_TV/index.m3u8?token=GHchsrYt3k
+#EXTINF:-1 group-title="Болгарія" tvg-id="History2 Европа" tvg-logo="https://raw.githubusercontent.com/ggit72/bgtvlogos/main/h2.png", H2 BG HD
+http://lb.wisp.cat/lb0/BG_History2_HD/video.m3u8?token=GHchsrYt3k
+#EXTINF:-1 group-title="Болгарія" tvg-id="Vivacom_HBO" tvg-logo="https://raw.githubusercontent.com/ggit72/bgtvlogos/main/HBO TV.png", HBO BG
+http://lb.wisp.cat/lb0/BG_HBO/video.m3u8?token=GHchsrYt3k
+#EXTINF:-1 group-title="Болгарія" tvg-id="Vivacom_HBO 2" tvg-logo="https://raw.githubusercontent.com/ggit72/bgtvlogos/main/hbo2.png", HBO2 BG
+http://lb.wisp.cat/lb0/BG_HBO2/video.m3u8?token=GHchsrYt3k
+#EXTINF:-1 group-title="Болгарія" tvg-id="Vivacom_HBO 3" tvg-logo="https://raw.githubusercontent.com/ggit72/bgtvlogos/main/hbo3.png", HBO3 BG
+http://lb.wisp.cat/lb0/BG_HBO3/video.m3u8?token=GHchsrYt3k
+#EXTINF:-1 group-title="Болгарія" tvg-id="Vivacom_HGTV HD" tvg-logo="https://raw.githubusercontent.com/ggit72/bgtvlogos/main/hgtv.png", HGTV BG HD
+http://lb.wisp.cat/lb0/BG_HGTV_HD/video.m3u8?token=GHchsrYt3k
+#EXTINF:-1 group-title="Болгарія" tvg-id="Vivacom_History HD" tvg-logo="http://play.wisp.cat/logos/1340.png", History BG HD
+http://lb.wisp.cat/lb0/BG_History_HD/index.m3u8?token=GHchsrYt3k
+#EXTINF:-1 group-title="Дорослі" tvg-id="hustler-hd" tvg-logo="http://play.wisp.cat/logos/595.png", Hustler HD
+http://lb.wisp.cat/lb0/PL_Hustler_HD/video.m3u8?token=GHchsrYt3k
+#EXTINF:-1 group-title="Болгарія" tvg-id="Investigation Discovery" tvg-logo="http://play.wisp.cat/logos/1339.png", Investigation Discovery BG
+http://lb.wisp.cat/lb0/BG_ID/index.m3u8?token=GHchsrYt3k
+#EXTINF:-1 group-title="Болгарія" tvg-id="Vivacom_Kino Nova HD" tvg-logo="https://raw.githubusercontent.com/ggit72/bgtvlogos/main/KinoNOVA HD.png", Kino Nova HD
+http://lb.wisp.cat/lb0/BG_Kino_Nova_HD/index.m3u8?token=GHchsrYt3k
+#EXTINF:-1 group-title="Дорослі" tvg-logo="https://raw.githubusercontent.com/ggit72/bgtvlogos/main/st.png", KINOEROTICA HD
+http://lb.wisp.cat/lb0/KINOEROTICA_HD/video.m3u8?token=GHchsrYt3k
+#EXTINF:-1 group-title="Болгарія" tvg-id="kitchen.tv" tvg-name="Kitchen TV" tvg-logo="https://raw.githubusercontent.com/ggit72/bgtvlogos/main/kitchen_tv.png" tvg-url="https://raw.githubusercontent.com/harrygg/EPG/refs/heads/master/epg.xml.gz", Kitchen BG HD
+http://lb.wisp.cat/lb0/BG_Kitchen_HD/video.m3u8?token=GHchsrYt3k
+#EXTINF:-1 group-title="Болгарія", Lolly Kids HD
+http://lb.wisp.cat/lb0/BG_Lolly_Kids_HD/video.m3u8?token=GHchsrYt3k
+#EXTINF:-1 group-title="Телеканали 4K" tvg-id="Love Nature 4K" tvg-logo="http://play.wisp.cat/logos/1175.png", Love Nature 4K
+http://lb.wisp.cat/lb0/INT_LOVE_NATURE_4K/video.m3u8?token=GHchsrYt3k
+#EXTINF:-1 group-title="Музичні" tvg-id="Vivacom_Magic TV" tvg-logo="https://raw.githubusercontent.com/ggit72/bgtvlogos/main/Magic HD.png", Magic TV
+http://lb.wisp.cat/lb0/BG_MagicTV/index.m3u8?token=GHchsrYt3k
+#EXTINF:-1 group-title="Спортивні" tvg-id="Vivacom_MAX Sport 1 HD" tvg-logo="http://play.wisp.cat/logos/1352.png" catchup-days="3", MAX Sport 1 HD
+http://lb.wisp.cat/lb0/MAX_SPORT_1_HD/video.m3u8?token=GHchsrYt3k
+#EXTINF:-1 group-title="Спортивні" tvg-id="Vivacom_MAX Sport 2 HD" tvg-logo="http://play.wisp.cat/logos/1256.png" catchup-days="3", MAX Sport 2 HD
+http://lb.wisp.cat/lb0/MAX_SPORT_2_HD/video.m3u8?token=GHchsrYt3k
+#EXTINF:-1 group-title="Спортивні" tvg-id="Vivacom_MAX Sport 3 HD" tvg-logo="http://play.wisp.cat/logos/1271.png" catchup-days="3", MAX Sport 3 HD
+http://lb.wisp.cat/lb0/MAX_SPORT_3_HD/video.m3u8?token=GHchsrYt3k
+#EXTINF:-1 group-title="Спортивні" tvg-id="Vivacom_MAX Sport 4 HD" tvg-logo="http://play.wisp.cat/logos/1273.png" catchup-days="3", MAX Sport 4 HD
+http://lb.wisp.cat/lb0/MAX_SPORT_4_HD/video.m3u8?token=GHchsrYt3k
+#EXTINF:-1 group-title="Болгарія" tvg-id="Moviestart HD" tvg-logo="https://raw.githubusercontent.com/ggit72/bgtvlogos/main/moviestar.png", MovieSTAR BG
+http://lb.wisp.cat/lb0/BG_MovieSTAR/index.m3u8?token=GHchsrYt3k
+#EXTINF:-1 group-title="Болгарія" tvg-id="Vivacom_Nat Geo HD" tvg-logo="http://play.wisp.cat/logos/1343.png", National Geographic HD BG
+http://lb.wisp.cat/lb0/BG_Nat_Geo_HD/index.m3u8?token=GHchsrYt3k
+#EXTINF:-1 group-title="Болгарія" tvg-id="Vivacom_NG Wild HD" tvg-logo="http://play.wisp.cat/logos/1347.png", National Geographic Wild HD BG
+http://lb.wisp.cat/lb0/BG_NG_Wild_HD/index.m3u8?token=GHchsrYt3k
+#EXTINF:-1 group-title="Болгарія" tvg-id="Vivacom_Nick Junior" tvg-logo="https://raw.githubusercontent.com/ggit72/bgtvlogos/main/nickjr.png", Nick Jr BG
+http://lb.wisp.cat/lb0/BG_Nick_Junior/video.m3u8?token=GHchsrYt3k
+#EXTINF:-1 group-title="Болгарія" tvg-id="Vivacom_Nickelodeon" tvg-logo="http://play.wisp.cat/logos/1342.png", Nickelodeon
+http://lb.wisp.cat/lb0/BG_Nickelodeon/index.m3u8?token=GHchsrYt3k
+#EXTINF:-1 group-title="Болгарія" tvg-id="Vivacom_Nicktoons" tvg-logo="https://raw.githubusercontent.com/ggit72/bgtvlogos/main/nicktoons.png", Nicktoons BG
+http://lb.wisp.cat/lb0/BG_Nicktoons/video.m3u8?token=GHchsrYt3k
+#EXTINF:-1 group-title="Болгарія" tvg-id="Vivacom_Nostalgia" tvg-logo="https://raw.githubusercontent.com/ggit72/bgtvlogos/main/nostalgia.png", Nostalgia HD
+http://lb.wisp.cat/lb0/BG_Nostalgia_HD/video.m3u8?token=GHchsrYt3k
+#EXTINF:-1 group-title="Болгарія" tvg-id="Vivacom_Nova HD" tvg-logo="https://raw.githubusercontent.com/ggit72/bgtvlogos/main/NOVA HD.png", Nova HD
+http://lb.wisp.cat/lb0/BG_Nova_HD/video.m3u8?token=GHchsrYt3k
+#EXTINF:-1 group-title="Болгарія" tvg-id="Vivacom_Nova News HD" tvg-logo="https://raw.githubusercontent.com/ggit72/bgtvlogos/main/NovaNews HD.png", Nova News HD
+http://lb.wisp.cat/lb0/BG_Nova_News_HD/index.m3u8?token=GHchsrYt3k
+#EXTINF:-1 group-title="Спортивні" tvg-id="Vivacom_Nova Sport" tvg-logo="http://play.wisp.cat/logos/1359.png", Nova Sport HD
+http://lb.wisp.cat/lb0/BG_Nova_Sport_HD/video.m3u8?token=GHchsrYt3k
+#EXTINF:-1 group-title="Дорослі" tvg-id="penthouse-gold" tvg-logo="http://play.wisp.cat/logos/573.png", Penthouse Gold HD
+http://lb.wisp.cat/lb0/XXX_PENTHOUSE_GOLD/video.m3u8?token=GHchsrYt3k
+#EXTINF:-1 group-title="Дорослі" tvg-id="penthouse-quickies" tvg-logo="http://play.wisp.cat/logos/574.png", Penthouse Reality HD
+http://lb.wisp.cat/lb0/XXX_PENTHOUSE_QUICKIES/video.m3u8?token=GHchsrYt3k
+#EXTINF:-1 group-title="Телеканали 4K" tvg-id="planeta4k.bg" tvg-name="Planeta 4K" tvg-logo="https://raw.githubusercontent.com/ggit72/bgtvlogos/main/planeta4k.png" tvg-url="https://raw.githubusercontent.com/harrygg/EPG/refs/heads/master/epg.xml.gz", Planeta 4K
+http://lb.wisp.cat/lb0/Planeta_4K/video.m3u8?token=GHchsrYt3k
+#EXTINF:-1 group-title="Болгарія" tvg-id="Vivacom_Планета Фолк" tvg-logo="http://play.wisp.cat/logos/1357.png", Planeta Folk
+http://lb.wisp.cat/lb0/BG_Planeta_Folk/index.m3u8?token=GHchsrYt3k
+#EXTINF:-1 group-title="Музичні" tvg-id="Vivacom_Планета HD" tvg-logo="http://play.wisp.cat/logos/1356.png", Planeta HD
+http://lb.wisp.cat/lb0/BG_Planeta_HD/index.m3u8?token=GHchsrYt3k
+#EXTINF:-1 group-title="Дорослі" tvg-id="playboy-tv" tvg-logo="http://play.wisp.cat/logos/372.png", Playboy TV
+http://lb.wisp.cat/lb0/PlayboyTV_SD/video.m3u8?token=GHchsrYt3k
+#EXTINF:-1 group-title="Дорослі" tvg-logo="http://play.wisp.cat/logos/1486.png", PLAYBOY TV HD
+http://lb.wisp.cat/lb0/PLAYBOYTVHD/video.m3u8?token=GHchsrYt3k
+#EXTINF:-1 group-title="Дорослі" tvg-id="private-tv" tvg-logo="http://play.wisp.cat/logos/969.png", Private HD
+http://lb.wisp.cat/lb0/Private_HD/video.m3u8?token=GHchsrYt3k
+#EXTINF:-1 group-title="Дорослі" tvg-logo="http://play.wisp.cat/logos/1754.png", PureBabes HD
+http://lb.wisp.cat/lb0/Pure_Babes_HD_SW/video.m3u8?token=GHchsrYt3k
+#EXTINF:-1 group-title="Дорослі" tvg-id="redlight-hd" tvg-logo="http://play.wisp.cat/logos/968.png", Redlight HD
+http://lb.wisp.cat/lb0/RedlightHD/index.m3u8?token=GHchsrYt3k
+#EXTINF:-1 group-title="Спортивні" tvg-id="Vivacom_RING HD" tvg-logo="http://play.wisp.cat/logos/61.png" catchup-days="5", RING HD
+http://lb.wisp.cat/lb0/RING_TV_HD/video.m3u8?token=GHchsrYt3k
+#EXTINF:-1 group-title="Болгарія" tvg-logo="https://raw.githubusercontent.com/ggit72/bgtvlogos/main/mix.png", Roma TV HD
+http://lb.wisp.cat/lb0/BG_Roma_TV_HD/index.m3u8?token=GHchsrYt3k
+#EXTINF:-1 group-title="Болгарія" tvg-id="Vivacom_СКАТ" tvg-logo="https://raw.githubusercontent.com/ggit72/bgtvlogos/main/skat.png", Skat
+http://lb.wisp.cat/lb0/BG_Skat/index.m3u8?token=GHchsrYt3k
+#EXTINF:-1 group-title="Болгарія" tvg-id="soulandpepper.tv" tvg-name="Soul and Pepper" tvg-logo="https://raw.githubusercontent.com/ggit72/bgtvlogos/main/soul&pepper.png" tvg-url="https://raw.githubusercontent.com/harrygg/EPG/refs/heads/master/epg.xml.gz", Soul&Pepper TV
+http://lb.wisp.cat/lb0/BG_Soul_Pepper_TV/index.m3u8?token=GHchsrYt3k
+#EXTINF:-1 group-title="Болгарія" tvg-id="Vivacom_STAR Channel" tvg-logo="https://raw.githubusercontent.com/ggit72/bgtvlogos/main/STAR Channel.png", Star BG
+http://lb.wisp.cat/lb0/BG_STAR_Channel/index.m3u8?token=GHchsrYt3k
+#EXTINF:-1 group-title="Болгарія" tvg-id="Vivacom_STAR Crime" tvg-logo="https://raw.githubusercontent.com/ggit72/bgtvlogos/main/STAR Crime.png", Star Crime BG
+http://lb.wisp.cat/lb0/BG_STAR_Crime/video.m3u8?token=GHchsrYt3k
+#EXTINF:-1 group-title="Болгарія" tvg-id="Vivacom_STAR Life" tvg-logo="https://raw.githubusercontent.com/ggit72/bgtvlogos/main/STAR Life.png", Star Life BG
+http://lb.wisp.cat/lb0/BG_STAR_Life/video.m3u8?token=GHchsrYt3k
+#EXTINF:-1 group-title="Болгарія" tvg-id="Vivacom_dizi" tvg-logo="https://raw.githubusercontent.com/ggit72/bgtvlogos/main/DIZI.png", Dizi BG
+http://lb.wisp.cat/lb0/BG_dizi/video.m3u8?token=GHchsrYt3k
+#EXTINF:-1 group-title="Болгарія" tvg-id="Vivacom_TLC" tvg-logo="https://raw.githubusercontent.com/ggit72/bgtvlogos/main/tlc.png", TLC BG
+http://lb.wisp.cat/lb0/BG_TLC/index.m3u8?token=GHchsrYt3k
+#EXTINF:-1 group-title="Болгарія" tvg-id="Vivacom_Travel Channel" tvg-logo="http://play.wisp.cat/logos/1370.png", Travel Channel BG
+http://lb.wisp.cat/lb0/BG_Travel_Channel/index.m3u8?token=GHchsrYt3k
+#EXTINF:-1 group-title="Болгарія" tvg-id="Vivacom_Travel TV" tvg-logo="https://raw.githubusercontent.com/ggit72/bgtvlogos/main/traveltv.png", Travel TV BG
+http://lb.wisp.cat/lb0/BG_TravelTV/video.m3u8?token=GHchsrYt3k
+#EXTINF:-1 group-title="Болгарія" tvg-id="Vivacom_TV 1" tvg-logo="https://raw.githubusercontent.com/ggit72/bgtvlogos/main/tv1.png", TV 1 BG HD
+http://lb.wisp.cat/lb0/BG_TV_1_HD/video.m3u8?token=GHchsrYt3k
+#EXTINF:-1 group-title="Болгарія" tvg-id="Vivacom_TV 1000" tvg-logo="http://play.wisp.cat/logos/2564.png", Viasat Kino BG HD
+http://lb.wisp.cat/lb0/Viasat_Kino_HD_BG/video.m3u8?token=GHchsrYt3k
+#EXTINF:-1 group-title="Болгарія" tvg-id="Vivacom_VIVACOM Arena HD" tvg-logo="https://raw.githubusercontent.com/ggit72/bgtvlogos/main/arenaVIVACOM_Logo.png", arena VIVACOM
+http://lb.wisp.cat/lb0/BG_VIVACOM_Arena_HD/video.m3u8?token=GHchsrYt3k
+#EXTINF:-1 group-title="Дорослі" tvg-logo="http://play.wisp.cat/logos/1866.png", XY MAX
+http://lb.wisp.cat/lb0/XY_MAX_HD/video.m3u8?token=GHchsrYt3k
+#EXTINF:-1 group-title="Дорослі" tvg-logo="http://play.wisp.cat/logos/1844.png", XY MIX
+http://lb.wisp.cat/lb0/XY_MIX_HD/video.m3u8?token=GHchsrYt3k
+#EXTINF:-1 group-title="Дорослі" tvg-logo="http://play.wisp.cat/logos/2826.png", XY PLUS
+http://lb.wisp.cat/lb0/XY_PLUS_HD/video.m3u8?token=GHchsrYt3k
+#EXTINF:-1 group-title="Дорослі" tvg-id="yosso-sexy" tvg-logo="http://play.wisp.cat/logos/1793.png", YOSSO TV SEXY
+http://lb.wisp.cat/lb0/YOSSO_TV_SEXY/index.m3u8?token=GHchsrYt3k
+#EXTINF:-1 group-title="Болгарія" tvg-id="Vivacom_БГ+" tvg-logo="https://raw.githubusercontent.com/ggit72/bgtvlogos/main/БГ+.png", БГ+ HD
+http://lb.wisp.cat/lb0/BG_BGplus_HD/index.m3u8?token=GHchsrYt3k
+#EXTINF:-1 group-title="Болгарія" tvg-id="Vivacom_БНТ1" tvg-logo="https://raw.githubusercontent.com/ggit72/bgtvlogos/main/БНТ 1.png", БНТ 1 HD
+http://lb.wisp.cat/lb0/BG_BNT1_HD/video.m3u8?token=GHchsrYt3k
+#EXTINF:-1 group-title="Болгарія" tvg-id="Vivacom_БНТ 2" tvg-logo="https://raw.githubusercontent.com/ggit72/bgtvlogos/main/БНТ 2.png", БНТ 2
+http://lb.wisp.cat/lb0/BG_BNT2/video.m3u8?token=GHchsrYt3k
+#EXTINF:-1 group-title="Болгарія" tvg-id="Vivacom_БНТ 3 HD" tvg-logo="https://raw.githubusercontent.com/ggit72/bgtvlogos/main/БНТ 3.png", БНТ 3 HD
+http://lb.wisp.cat/lb0/BG_BNT3_HD/video.m3u8?token=GHchsrYt3k
+#EXTINF:-1 group-title="Болгарія" tvg-id="Vivacom_BNT 4" tvg-logo="https://raw.githubusercontent.com/ggit72/bgtvlogos/main/БНТ 4.png", БНТ 4
+http://lb.wisp.cat/lb0/BG_BNT4/index.m3u8?token=GHchsrYt3k
+#EXTINF:-1 group-title="Болгарія" tvg-id="Vivacom_Диема HD" tvg-logo="https://raw.githubusercontent.com/ggit72/bgtvlogos/main/Диема.png", Диема HD
+http://lb.wisp.cat/lb0/BG_Diema_HD/index.m3u8?token=GHchsrYt3k
+#EXTINF:-1 group-title="Болгарія" tvg-id="Канал 3 HD" tvg-logo="https://raw.githubusercontent.com/ggit72/bgtvlogos/main/Канал 3.png", Канал 3 HD
+http://lb.wisp.cat/lb0/BG_Kanal_3_HD/index.m3u8?token=GHchsrYt3k
+#EXTINF:-1 group-title="Болгарія" tvg-logo="https://raw.githubusercontent.com/ggit72/bgtvlogos/main/Родина.png", Родина ТВ
+http://lb.wisp.cat/lb0/BG_Rodina/video.m3u8?token=GHchsrYt3k
+#EXTINF:-1 group-title="Дорослі" tvg-id="russkaya-noch" tvg-logo="http://play.wisp.cat/logos/371.png", Русская ночь
+http://lb.wisp.cat/lb0/RUSSKAYA_NOCH/video.m3u8?token=GHchsrYt3k
+#EXTINF:-1 group-title="Болгарія" tvg-id="Vivacom_Тянков Фолк" tvg-logo="http://play.wisp.cat/logos/1371.png", Тянков Фолк
+http://lb.wisp.cat/lb0/BG_Tiyankov_Folk/index.m3u8?token=GHchsrYt3k
+#EXTINF:-1 group-title="Дорослі" tvg-id="shalun" tvg-logo="http://play.wisp.cat/logos/626.png", Шалун HD
+http://lb.wisp.cat/lb0/shalunhd/video.m3u8?token=GHchsrYt3k
+#EXTINF:-1 group-title="Дорослі" tvg-id="sholk" tvg-logo="http://play.wisp.cat/logos/2761.png", Шёлк
+http://lb.wisp.cat/lb0/shelk/video.m3u8?token=GHchsrYt3k
